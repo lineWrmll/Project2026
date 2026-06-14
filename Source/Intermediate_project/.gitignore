@@ -1,0 +1,10 @@
+# The raster from WorldEcosystem.tif is too big, it will be ignored by GitHub
+# The raster is still available in the original folder, on my computer
+
+# mac system files
+.DS_Store
+
+# raster files
+*.tif
+*.grd
+*.gri
